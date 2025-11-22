@@ -45,6 +45,7 @@ A runnable JAR is included:
 ```bash
 java -jar strategytournament.jar
 
+```
 
 Requires Java 8 or later.
 
